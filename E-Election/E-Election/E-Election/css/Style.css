@@ -1,0 +1,193 @@
+﻿body {
+
+    padding: 0px;
+    margin: 0px;
+    cursor: default;
+}
+
+.MainContainer{
+
+    width: 100%;
+    background-image: url(../images/SimpleBG1.jpg);
+    height: 600px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+}
+
+.content{
+
+    width: 800px;
+    margin: 0px auto;
+}
+
+.elect_heading{
+    
+    font-family: Philosopher;
+    font-size: 90px;
+    text-align: center; 
+    letter-spacing: 2px;
+    padding: 0px;
+    margin: 0px;
+    color: #FFCB18;
+    padding-bottom: 60px;
+    animation: polling 2s;
+}
+
+@keyframes polling {
+
+    from{font-size: 0px;}
+    to{font-size: 90px;}
+}
+
+.myvc{
+    font-family: Philosopher;
+    font-size: 45px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    letter-spacing: 4px;
+    color: #FFFF81;
+    font-weight: bold;
+    margin-bottom: 6px;
+    margin-top: 6px;
+}
+
+.vote{
+    font-family: Philosopher;
+    position: relative;
+    text-align:center;
+    width: 70px;
+    margin:0px auto;
+    padding: 14px 35px; 
+    font-size: 20px;
+   border: none;
+   box-shadow: 0px 0px 30px 0px black;
+   background-color: #FFCB18;
+   cursor: pointer;
+   transition: background-color 1s;
+}
+
+
+.vote:hover{
+    color: #FFCB18;
+    background-color: #FF6D31;
+   font-weight: bold;
+}
+.timing{
+    
+    width: 100%;
+    background-color: #C0392B;
+    height: 200px;
+}
+
+.polling_status{
+    
+    position: relative;
+    padding: 10px 30px;
+    font-size: 18px;
+    margin-top: 30px;
+    border: none;
+    background-color: #C0392B;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.polling_status:hover{
+    color: black;
+    border-bottom: 4px solid black;
+}
+.p_s{
+    width: 180px;
+    height: 45px;
+    margin: 0px auto;
+}
+
+.remaining_time{
+    
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: Philosopher;
+    text-align: center;
+    padding-top: 20px;
+    letter-spacing: 2px;
+   text-transform: uppercase;
+}
+
+.hr_min_sec{
+    
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+     color: white;
+     margin: 0px;
+     font-size: 17px;
+     padding: 0px;
+}
+
+.hr_min_sec > li{
+    
+    padding: 30px;
+}
+
+#hrs, #min, #sec{
+    
+    padding: 0px;
+    margin: 0px;
+    display: inline;
+    font-size: 50px;
+    color: white;
+}
+#admin_btn{
+
+    background-color: #29A2C6;
+    width: 100%;
+    height: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 1px;
+    padding-top: 12px;
+    transition: background-color 0.6s;
+
+}
+
+#admin_btn:hover{
+
+    background-color: #136178;
+    cursor: pointer;
+}
+
+.p_admin{
+
+    margin: 0px;
+    padding: 0px;
+    text-align:center;
+}
+
+.footer_anch{
+
+    text-decoration: none;
+}
+
+.voteline{
+
+    text-decoration: none;
+    color: #FF6D31;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+C:\Users\NazeerBZ\Desktop\ASPwork\E-Election\E-Election\bin\E-Election.dll.config
+C:\Users\NazeerBZ\Desktop\ASPwork\E-Election\E-Election\bin\E-Election.dll
+C:\Users\NazeerBZ\Desktop\ASPwork\E-Election\E-Election\bin\E-Election.pdb
+C:\Users\NazeerBZ\Desktop\ASPwork\E-Election\E-Election\obj\Debug\E-Election.csprojResolveAssemblyReference.cache
+C:\Users\NazeerBZ\Desktop\ASPwork\E-Election\E-Election\obj\Debug\E-Election.dll
+C:\Users\NazeerBZ\Desktop\ASPwork\E-Election\E-Election\obj\Debug\E-Election.pdb
+C:\Users\NazeerBZ\Desktop\ASPwork\E-Election\E-Election\bin\AjaxControlToolkit.dll
+C:\Users\NazeerBZ\Desktop\E-Election\E-Election\E-Election\bin\E-Election.dll.config
+C:\Users\NazeerBZ\Desktop\E-Election\E-Election\E-Election\bin\E-Election.dll
+C:\Users\NazeerBZ\Desktop\E-Election\E-Election\E-Election\bin\E-Election.pdb
+C:\Users\NazeerBZ\Desktop\E-Election\E-Election\E-Election\bin\AjaxControlToolkit.dll
+C:\Users\NazeerBZ\Desktop\E-Election\E-Election\E-Election\obj\Debug\E-Election.csprojResolveAssemblyReference.cache
+C:\Users\NazeerBZ\Desktop\E-Election\E-Election\E-Election\obj\Debug\E-Election.dll
+C:\Users\NazeerBZ\Desktop\E-Election\E-Election\E-Election\obj\Debug\E-Election.pdb
+E:\4 Semester\Web programming\E-Election\E-Election\E-Election\bin\E-Election.dll.config
+E:\4 Semester\Web programming\E-Election\E-Election\E-Election\bin\E-Election.dll
+E:\4 Semester\Web programming\E-Election\E-Election\E-Election\bin\E-Election.pdb
+E:\4 Semester\Web programming\E-Election\E-Election\E-Election\obj\Debug\E-Election.csprojResolveAssemblyReference.cache
+E:\4 Semester\Web programming\E-Election\E-Election\E-Election\obj\Debug\E-Election.dll
+E:\4 Semester\Web programming\E-Election\E-Election\E-Election\obj\Debug\E-Election.pdb

@@ -1,0 +1,178 @@
+﻿          body{
+
+    margin: 0px;
+    padding: 0px;
+     background: radial-gradient(circle, #fff 20%, #ccc);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 100vh;
+        }
+        
+        .box{
+            width: 500px;
+            margin: 0px auto;
+            margin-top: 70px;
+            background-color: rgba(20, 21, 22, 0.52);
+            padding-bottom: 70px;
+             border-radius: 5px;
+             animation: moveBox 2s 1;
+             position: relative;
+            
+            }
+
+        @keyframes moveBox{
+
+            from{opacity:0.3; left: 400px;}
+            to{left: 0px;}
+        }
+
+        
+        .set_heading{
+
+            font-family: Philosopher;
+            font-size: 60px;
+            text-align:center;
+            padding-top: 50px;
+            padding-bottom: 35px;
+            color: white;
+            
+        }
+                
+         .auto-style1 {
+             width: 308px;
+             margin: 0px auto;
+         }
+        
+         .adminTextBox{
+
+             float: right;
+         }
+
+         .clear{
+
+             clear: both;
+         }
+
+         .auto-style2 {             
+            background-color: #ff0000;
+             border: none;
+             padding: 10px;
+             font-weight: bold;
+             color: white;
+             margin-top: 30px;
+             cursor: pointer;
+             transition: background-color 0.5s;
+         }
+
+         .auto-style2:hover{
+           background-color: #CC0000;            
+         }
+
+         .auto-style3 {
+             background-color:  #29A2C6;
+             border: none;
+             padding: 10px;
+             font-weight: bold;
+             color: white;
+             margin-top: 30px;
+             cursor: pointer;
+             transition: background-color 0.5s;
+         }
+
+         .auto-style3:hover{
+           background-color: #4D88A1;            
+         }
+
+         .auto-style0{
+             background-color: #4caf50;
+             border: none;
+             padding: 10px;
+             font-weight: bold;
+             color: white;
+             margin-top: 30px;
+             cursor: pointer;
+             transition: background-color 0.5s;
+         }
+
+         .auto-style0:hover{
+            background-color: #387a3a;
+         }
+
+         .elecSub{
+
+             color: white;
+         }
+
+         .file{
+
+             color: white;
+             cursor: pointer;
+         }
+
+         .adminUpload{
+
+             float: right;
+             background-color: #4caf50;
+             border: none;
+             padding: 5px 10px;
+             cursor: pointer;
+         }
+
+         .inviLabel{
+
+             text-align: center;
+             padding-top: 13px;
+         }
+
+         .incorrectValue{
+
+             font-size: 19px;
+         }
+         
+         .Close{
+
+             position: relative;
+             float: right;
+             right: 30px;
+             top: -38px;
+             transition: transform 1s;
+         }
+         
+        .Close:hover{
+
+      transform: rotate(180deg);
+   
+        }
+
+        .delBox{
+
+        width: 308px;
+        height: 100px;
+        overflow-y: scroll;
+        animation: del 1s 1;
+        }
+
+        @keyframes del{
+
+            from{height: 0px;}
+            to{height: 100px;}
+        }
+
+        .out{
+
+        width: 0px;
+        height: 0px;
+        overflow: hidden;
+        animation: back 1s 1;
+        }
+
+         @keyframes back{
+
+            from{height: 100px;}
+            to{height: 0px;}
+        }
+
+        .checking{
+
+            background-color: red;
+        }
